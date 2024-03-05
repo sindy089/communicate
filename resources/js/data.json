@@ -26,11 +26,7 @@
 		"prompt": "This is the second question",
 		"answer": "This is the answer.",
 		"link": "https://facebook.com"
-	}
-]
-
-
-[
+	},
     {
     
         "prompt": "<span> Get to know more about past tense!!!</span>",
