@@ -1,7 +1,7 @@
 [
     {
 		"prompt": "Have you ever <span>felt anxious</span> about your <b>English</b>? ",
-		"answer": " <span> Yes!! </span><img src='https://cdn.i-scmp.com/sites/default/files/styles/portrait/public/d8/images/canvas/2022/11/15/c4e4cc72-fa41-4e18-a680-d969f9cd248d_ce0c3321.jpg?itok=YFnqOydH&v=1668503234',/>",
+		"answer": " <span> Yes!! </span><img src='https://cdn.i-scmp.com/sites/default/files/styles/portrait/public/d8/images/canvas/2022/11/15/c4e4cc72-fa41-4e18-a680-d969f9cd248d_ce0c3321.jpg?itok=YFnqOydH&v=1668503234',/ width="100" height="150">",
 		"link": "https://youtu.be/lEG4jn4Zfj4?feature=shared"
 	},
 	{
