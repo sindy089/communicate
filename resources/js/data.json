@@ -11,51 +11,15 @@
 		
 	},
 	{
-		"prompt": "Have you ever felt anxious about your English?",
-		"answer": "Yes",
-		"link": "Http://Youtube.com"
-		
+		"prompt": "What do you think is the <span>effective way</span> to help you with <b>English</b>? ",
+		"answer": "Talk more!!!!<img src='https://a.storyblok.com/f/112937/568x464/7f4d74936b/how-to-speak-english-better.jpg'>",
+		"link": "https://youtu.be/t2dl-WoCoTc?feature=shared"
+		 
 	},
 	{
-		"Prompt": "Have you ever felt anxious about your English?",
-		"answer": "Yes",
-		"Link": "Http://Youtube.com"
-		
-	},
-    {
-		"prompt": "This is the second question",
-		"answer": "This is the answer.",
-		"link": "https://facebook.com"
-	},
-    {
-    
-        "prompt": "<span> Get to know more about past tense!!!</span>",
-        "answer": "https://youtu.be/MI3S3kdkofo?si=nEYEL2ZxsDPlB37R"
-    },
-    {
-    
-        "prompt": "What is the past tense of  <b> 'do' </b> ?",
-        "answer": "do & <span> did </span>",
-        "link": "https://google.com"
-    },
-    {
-        "prompt": "What is the past tense of 'get' ?",
-        "answer": "get & <span> got </span><img src='https://www.business2community.com/wp-content/uploads/2016/06/Got-it..jpg.jpg',/>",
-        "link": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/get"
-    },
-    {
-        "prompt": "past tense of <b> hide </b> ",
-        "answer": "<span>hid</span> <img src='https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D954938877879421&tbnid=NKTtCKeBiOP3zM&vet=12ahUKEwjg-L-p0tSEAxUsvVYBHfNaBwwQMygaegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2F914157611957548%2Fphotos%2Fa.914179018622074%2F954938877879421%2F%3Ftype%3D3&docid=Q_yL_jG8YgWauM&w=500&h=313&q=hide%20verb&hl=en&ved=2ahUKEwjg-L-p0tSEAxUsvVYBHfNaBwwQMygaegQIARB_'",
-        "link": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/hide"
-    },
-    {
-        "prompt": "What is the past tense of  <b>'open'</b> ?",
-        "answer": "<span>opened</span>",
-        "link": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/open"
-    },
-    {
-        "prompt": "What is the past tense of  <b>'look'</b> ?",
-        "answer": "looked.",
-        "link": "https://www.google.com/search?q=looked&rlz=1C5CHFA_enHK975HK976&oq=looked&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNTk2ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8"
-    }
+		"prompt": "Do you know <span>why you feel anxious about English</span>? ",
+		"answer": "Scare of the mistake. <img src='https://blog.tuf.edu.pk/wp-content/uploads/2020/05/mistakes-2.jpg'>",
+		"link": "https://www.linkedin.com/pulse/dont-afraid-making-mistakes-when-learning-english-good-simon-harris?utm_source=share&utm_medium=guest_desktop&utm_campaign=copy"
+			
+	}
 ]
