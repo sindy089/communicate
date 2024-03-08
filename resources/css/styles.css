@@ -110,7 +110,7 @@ li div {
 }
 
 li div span {
-  color: #abe7aa;
+  color: #ffab2c;
   font-weight: 500;
 }
 
@@ -164,8 +164,8 @@ li.active-link div::before {
 
 .front {
   display: flex;
-  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
-  color: #fefef2;
+  background-image: linear-gradient(to top, #d2e9f7 0%, #d0edfc 100%);
+  color: #c5ceff;
   transform: rotateX(0deg);
   opacity: 1;
 }
@@ -177,7 +177,7 @@ li.active-link div::before {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-color: #bbe1f5;
+  background-color: #98d8fb;
   transform: rotateX(180deg);
   transform-style: preserve-3d;
   opacity: 0;

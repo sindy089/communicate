@@ -21,5 +21,11 @@
 		"answer": "<img src='https://blog.tuf.edu.pk/wp-content/uploads/2020/05/mistakes-2.jpg'>  <span>  Scare of the mistake.</sapn> ",
 		"link": "https://www.linkedin.com/pulse/dont-afraid-making-mistakes-when-learning-english-good-simon-harris?utm_source=share&utm_medium=guest_desktop&utm_campaign=copy"
 			
+	},
+	{
+		"prompt": "Do you know how to prounce the word <span>Ironic</span>? ",
+	 	"answer": "<img src='https://qph.cf2.quoracdn.net/main-qimg-5bf91452ecb686383eb5dbb71d444b96-lq'>  <span> /ˈaɪə.ɹən.i/ </sapn> ",
+		"link": "https://en.wiktionary.org/wiki/File:en-us-irony-2.ogg"
+		
 	}
 ]
