@@ -213,8 +213,8 @@ li.active-link div::before {
   position: relative;
   border: none;
   background: transparent;
-  border-right: 10px solid #2c7096;
-  border-top: 10px solid #2c7096;
+  border-right: 10px solid #93d7ff;
+  border-top: 10px solid #96d8ff;
   border-radius: 0 5px 0 5px;
   height: 48px;
   width: 48px;
